@@ -3,4 +3,5 @@ layout: layouts/base.njk
 permalink: /
 ---
 
-hello test
+{% set postslist = collections.posts %}
+{% include "postlist.njk" %}
