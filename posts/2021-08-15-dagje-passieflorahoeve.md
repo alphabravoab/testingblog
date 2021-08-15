@@ -9,12 +9,10 @@ featuredImage: images/uploads/img_9363.jpg
 ---
 Een passiebloemvlinder, op de foto gezet met een macrolens
 
-![](images/uploads/img_9363.jpg)
+![vlinder](images/uploads/img_9363.jpg "afsf")
 
 hh
 
-
-
-![](images/uploads/img_9357.jpg)
+![adasdasdasd](images/uploads/img_9357.jpg "adfdgaagadfg")
 
 een glasvleugelvlindertje
